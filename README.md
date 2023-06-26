@@ -17,3 +17,6 @@ Teve como atividades:
 <p>:black_small_square:Análise estatística (ANOVA one-way); </p>
 <p>:black_small_square:Análise filogenética;</p>
 <p>:black_small_square:Análise de qualidade de dados de arquivos fasta.q.</p>
+
+
+Referências disponíveis nos slides.
