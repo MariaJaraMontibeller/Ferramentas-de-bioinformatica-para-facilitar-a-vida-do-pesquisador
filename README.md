@@ -13,7 +13,7 @@ Ferramentas-de-bioinformatica-para-facilitar-a-vida-do-pesquisador
 Esse minicurso fo ministrado na Universidade Estadual Paulista - campus Araraquara , no  I Curso de Inverno em Biociências e Biotecnologia Aplicadas à Farmácia. 
 Teve como atividades:
 
-:black_small_square:Construção de gráfico de barras; 
-:black_small_square:Análise estatística; 
-:black_small_square:Análise filogenética;
-:black_small_square:Análise de qualidade de dados de arquivos fasta.q.
+<p>:black_small_square:Construção de gráfico de barras; </p>
+<p>:black_small_square:Análise estatística; </p>
+<p>:black_small_square:Análise filogenética;</p>
+<p>:black_small_square:Análise de qualidade de dados de arquivos fasta.q.</p>
