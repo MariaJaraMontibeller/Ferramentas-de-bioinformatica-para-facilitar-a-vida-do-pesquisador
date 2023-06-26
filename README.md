@@ -14,6 +14,6 @@ Esse minicurso fo ministrado na Universidade Estadual Paulista - campus Araraqua
 Teve como atividades:
 
 <p>:black_small_square:Construção de gráfico de barras; </p>
-<p>:black_small_square:Análise estatística; </p>
+<p>:black_small_square:Análise estatística (ANOVA one-way); </p>
 <p>:black_small_square:Análise filogenética;</p>
 <p>:black_small_square:Análise de qualidade de dados de arquivos fasta.q.</p>
