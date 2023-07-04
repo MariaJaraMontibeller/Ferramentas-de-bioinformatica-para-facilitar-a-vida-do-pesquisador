@@ -20,3 +20,5 @@ Teve como atividades:
 
 
 Referências disponíveis nos slides.
+
+https://covid19.who.int/data
